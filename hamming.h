@@ -1,0 +1,1 @@
+unsigned int hamming(unsigned char * data_p, unsigned int length);
